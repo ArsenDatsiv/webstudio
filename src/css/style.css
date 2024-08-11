@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,700;1,700&family=Roboto:wght@400;500;700;900&display=swap');
+/* font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal
+  font-family: "Roboto", sans-serif;
+  font-weight: 400;
+  font-style: normal
+  font-family: "Roboto", sans-serif;
+  font-weight: 500;
+  font-style: normal;
+  font-family: "Roboto", sans-serif;
+  font-weight: 700;
+  font-style: normal;
+  font-family: "Roboto", sans-serif;
+  font-weight: 900;
+  font-style: normal;
+} */
+ :root {
+    --colorblakc: #212121;
+    --colortext: #757575;
+    --colortextprimary: #FFFFFF;
+    --ColorPrimary: #ffff;
+   --Colorbackrounbbaton: #2196F3;
+   --Colorbackround: #000000;
+   --colortextsecondary: #F5F4FA;
+   --backroundsecondary: #2F303A;
+   --textsecondarywhit: #ECECEC;
+   --Textwhite: #EEEEEE;
+ }
+ 
